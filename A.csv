@@ -1,0 +1,2 @@
+RutaArchivo,Url,App,Query,Parametros,Condicions,RutaProyecto,Navegador,DatoEntrada
+C:\Proyectos\Automatización de pruebas\Formas.csv,http://10.120.18.146:1001/#!/,NuevaAdmisiones Solicitud,,,,C:\Proyectos\Automatización de pruebas\Formas.txt,C,false
