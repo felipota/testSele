@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaVinculacion", "PruebaVinculacion\PruebaVinculacion.csproj", "{C7FB6371-96AE-4028-AC22-9582AF66F0B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.PruebaVinculación", "2.PruebaVinculación", "{1FCFB0C0-32C3-4449-A623-B4854B05CCAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Utilidades", "1.Utilidades", "{87364D02-7E00-4BC8-89B6-6288915E9BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herramientas", "Herramientas\Herramientas.csproj", "{4586EACC-45AE-4F9E-B6B6-4834D030B19A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.AutomatizarApp", "3.AutomatizarApp", "{E2D0D333-B222-48CC-AEE3-9D6E159AAB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatizarApp", "AutomatizarApp\AutomatizarApp.csproj", "{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FB6371-96AE-4028-AC22-9582AF66F0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FB6371-96AE-4028-AC22-9582AF66F0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FB6371-96AE-4028-AC22-9582AF66F0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FB6371-96AE-4028-AC22-9582AF66F0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4586EACC-45AE-4F9E-B6B6-4834D030B19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4586EACC-45AE-4F9E-B6B6-4834D030B19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4586EACC-45AE-4F9E-B6B6-4834D030B19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4586EACC-45AE-4F9E-B6B6-4834D030B19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7FB6371-96AE-4028-AC22-9582AF66F0B6} = {1FCFB0C0-32C3-4449-A623-B4854B05CCAC}
+		{4586EACC-45AE-4F9E-B6B6-4834D030B19A} = {87364D02-7E00-4BC8-89B6-6288915E9BE2}
+		{C1A374CB-F7C2-433B-9A8F-2CDE8BB66CEA} = {E2D0D333-B222-48CC-AEE3-9D6E159AAB79}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.bancofalabella.com.co:8080/tfs/core
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Herramientas\\Herramientas.csproj
+		SccProjectTopLevelParentUniqueName1 = PruebaVinculacion.sln
+		SccProjectName1 = Herramientas
+		SccLocalPath1 = Herramientas
+		SccProjectUniqueName2 = PruebaVinculacion\\PruebaVinculacion.csproj
+		SccProjectTopLevelParentUniqueName2 = PruebaVinculacion.sln
+		SccProjectName2 = PruebaVinculacion
+		SccLocalPath2 = PruebaVinculacion
+		SccProjectUniqueName3 = AutomatizarApp\\AutomatizarApp.csproj
+		SccProjectTopLevelParentUniqueName3 = PruebaVinculacion.sln
+		SccProjectName3 = AutomatizarApp
+		SccLocalPath3 = AutomatizarApp
+	EndGlobalSection
+EndGlobal
